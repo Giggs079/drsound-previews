@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UTDYXA6NM2.com.itunessearch.iTunesSearch",
+        "paths": [ "/.netlify/functions/*" ]
+      }
+    ]
+  }
+}
