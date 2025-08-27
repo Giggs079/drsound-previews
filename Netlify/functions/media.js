@@ -22,7 +22,7 @@ exports.handler = async function(event, context) {
       <body>
         <script>
           window.location = "drsound://share?type=${type}&id=${id}";
-          setTimeout(() => { window.location = "https://apps.apple.com/app/idTON_APPLE_ID"; }, 1000);
+          setTimeout(() => { window.location = "https://apps.apple.com/app/id1292311461"; }, 1000);
         </script>
         Redirection vers l'application...
       </body>
